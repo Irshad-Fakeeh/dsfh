@@ -1,38 +1,32 @@
 {
-  // -------------------------------
-  // GENERAL
-  // -------------------------------
-  "app_name": "DSFH App",
-  "retry": "Retry",
-  "failed_to_load_colors": "Failed to load colors",
-  "loading": "Loading...",
+  "splash_screen": {
+    "retry": "Retry",
+    "failed_to_load_colors": "Failed to load colors",
+    "loading": "Loading..."
+  },
 
-  // -------------------------------
-  // LOGIN SCREEN
-  // -------------------------------
-  "login_title": "Login",
-  "login_email_hint": "Email Address",
-  "login_password_hint": "Password",
-  "login_button": "Login",
-  "forgot_password": "Forgot Password?",
+  "login_screen": {
+    "title": "Login",
+    "email_hint": "Email Address",
+    "password_hint": "Password",
+    "login_button": "Login",
+    "forgot_password": "Forgot Password?"
+  },
 
-  // -------------------------------
-  // HOME SCREEN
-  // -------------------------------
-  "home_title": "Home",
-  "welcome_message": "Welcome to DSFH!",
+  "home_screen": {
+    "title": "Home",
+    "welcome_message": "Welcome to DSFH!"
+  },
 
-  // -------------------------------
-  // LAB REPORT
-  // -------------------------------
-  "lab_reports": "Lab Reports",
-  "view_report": "View Report",
-  "no_reports": "No Reports Found",
+  "lab_report": {
+    "heading": "Lab Reports",
+    "view": "View Report",
+    "empty": "No Reports Found"
+  },
 
-  // -------------------------------
-  // SETTINGS
-  // -------------------------------
-  "settings_title": "Settings",
-  "language": "Language",
-  "logout": "Logout"
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "logout": "Logout"
+  }
 }
