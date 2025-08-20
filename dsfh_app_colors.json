@@ -1,2 +1,10 @@
 {
+  "primary": "#008AAB",
+  "secondary": "#A8163F",
+  "neutralDark": "#3D3935",
+  "neutralLight": "#98A3AD",
+  "textPrimary": "#3D3935",
+  "textOnPrimary": "#FFFFFF",
+  "backgroundLight": "#FFFFFF",
+  "backgroundDark": "#3D3935"
 }
