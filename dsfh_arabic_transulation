@@ -1,0 +1,32 @@
+{
+  "splash_screen": {
+    "retry": "إعادة المحاولة",
+    "failed_to_load_colors": "فشل تحميل الألوان",
+    "loading": "جارٍ التحميل..."
+  },
+
+  "login_screen": {
+    "title": "تسجيل الدخول",
+    "email_hint": "البريد الإلكتروني",
+    "password_hint": "كلمة المرور",
+    "login_button": "دخول",
+    "forgot_password": "هل نسيت كلمة المرور؟"
+  },
+
+  "home_screen": {
+    "title": "الرئيسية",
+    "welcome_message": "مرحبًا بك في DSFH!"
+  },
+
+  "lab_report": {
+    "heading": "تقارير المختبر",
+    "view": "عرض التقرير",
+    "empty": "لا توجد تقارير"
+  },
+
+  "settings": {
+    "title": "الإعدادات",
+    "language": "اللغة",
+    "logout": "تسجيل الخروج"
+  }
+}
