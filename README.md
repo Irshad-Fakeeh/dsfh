@@ -17,15 +17,16 @@ This makes your app flexible, customizable, and easy to update without shipping 
 
 ## 📂 Project Structure
 lib/
-│── core/
-│ ├── constants/
-│ │ ├── app_strings.dart
-│ │ └── app_colors.dart
-│ ├── services/
-│ │ ├── theme/
-│ │   ├── app_localization_service.dart
-│ │   └── app_color_service.dart
-│── main.dart
+ ├── core/
+ │   ├── constants/
+ │   │   └── app_strings.dart
+ │   │   └── app_colors.dart
+ │   ├── services/
+ │   │   ├── app_localization_service.dart
+ │   │   └── app_color_service.dart
+ │   └── theme/
+ └── main.dart
+
 
 ---
 
