@@ -154,9 +154,10 @@ Push and create a Pull Request
 This project is licensed under the MIT License.
 You are free to use and modify it for personal and commercial projects.
 
+
 ## 👨‍💻 Author
 
-[![GitHub Profile- Irshad Fakeeh](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Irshad-Fakeeh)
+[![GitHub Profile - Irshad Fakeeh](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Irshad-Fakeeh)
 
 
 
