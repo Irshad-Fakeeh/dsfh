@@ -45,7 +45,7 @@ void main() async {
 }
 
 ### 2️⃣ Initialize Services in main.dart
-
+```bash
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
