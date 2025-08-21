@@ -44,7 +44,7 @@ void main() async {
   runApp(const MyApp());
 }
 
-2️⃣ Initialize Services in main.dart
+### 2️⃣ Initialize Services in main.dart
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -55,7 +55,7 @@ void main() async {
   runApp(const MyApp());
 }
 
-3️⃣ Use Localized Strings
+### 3️⃣ Use Localized Strings
 
 Text(AppStrings.loginScreenTitle.tr);
 ElevatedButton(
@@ -63,7 +63,7 @@ ElevatedButton(
   child: Text(AppStrings.loginScreenLoginButton.tr),
 );
 
-4️⃣ Use Dynamic Colors
+### 4️⃣ Use Dynamic Colors
 
 Container(
   color: AppColors.primary,
@@ -73,7 +73,7 @@ Container(
   ),
 );
 
-5️⃣ Switch Language
+### 5️⃣ Switch Language
 
 await AppLocalizationService.setLanguage("ar"); // switch to Arabic
 setState(() {}); // rebuild UI
