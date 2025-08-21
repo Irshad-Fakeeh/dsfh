@@ -27,7 +27,7 @@ lib/
 │   │   └── app_color_service.dart
 │   └── theme/
 └── main.dart
-
+```
 
 ---
 
