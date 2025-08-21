@@ -47,6 +47,8 @@ void main() async {
 
 
 ### 2️⃣ Initialize Services in main.dart
+```bash
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
@@ -55,16 +57,22 @@ void main() async {
 
   runApp(const MyApp());
 }
+```
+
 
 ### 3️⃣ Use Localized Strings
+```bash
 
 Text(AppStrings.loginScreenTitle.tr);
 ElevatedButton(
   onPressed: () {},
   child: Text(AppStrings.loginScreenLoginButton.tr),
 );
+```
+
 
 ### 4️⃣ Use Dynamic Colors
+```bash
 
 Container(
   color: AppColors.primary,
@@ -73,11 +81,15 @@ Container(
     style: TextStyle(color: AppColors.textOnPrimary),
   ),
 );
+```
+
 
 ### 5️⃣ Switch Language
+```bash
 
 await AppLocalizationService.setLanguage("ar"); // switch to Arabic
 setState(() {}); // rebuild UI
+```
 
 
 
