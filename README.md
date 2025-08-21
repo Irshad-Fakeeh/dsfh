@@ -32,7 +32,7 @@ lib/
 ## ⚡ Quick Start
 
 ### 1️⃣ Install dependencies
-
+```bash
 flutter pub get
 
 void main() async {
