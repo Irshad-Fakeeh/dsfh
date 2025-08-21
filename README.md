@@ -32,7 +32,7 @@ lib/
 ## ⚡ Quick Start
 
 ### 1️⃣ Install dependencies
-```bash
+
 flutter pub get
 
 void main() async {
@@ -43,11 +43,8 @@ void main() async {
 
   runApp(const MyApp());
 }
-/```bash
-\```bash
 
 ### 2️⃣ Initialize Services in main.dart
-```bash
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
