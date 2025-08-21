@@ -91,7 +91,7 @@ await AppLocalizationService.setLanguage("ar"); // switch to Arabic
 setState(() {}); // rebuild UI
 ```
 
-📝 Example JSON Files
+## 📝 Example JSON Files
 🌐 Localization (e.g., en.json)
 ```bash
 
@@ -115,7 +115,7 @@ setState(() {}); // rebuild UI
 }
 ```
 
-🎨 Colors (e.g., colors.json)
+## 🎨 Colors (e.g., colors.json)
 ```bash
 
 {
@@ -127,7 +127,7 @@ setState(() {}); // rebuild UI
 }
 ```
 
-🛠 Development Notes
+## 🛠 Development Notes
 
 Host your en.json, ar.json, colors.json on GitHub Pages or an API.
 
@@ -137,7 +137,7 @@ Use .tr for translations and AppColors.xyz for colors.
 
 Designed to be used with MVVM + BLoC/Cubit.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -149,12 +149,12 @@ Commit changes (git commit -m 'Add new feature')
 
 Push and create a Pull Request
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 You are free to use and modify it for personal and commercial projects.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Irshad Fakeeh
 🔗 GitHub Profile
