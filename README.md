@@ -43,6 +43,8 @@ void main() async {
 
   runApp(const MyApp());
 }
+```bash
+
 
 ### 2️⃣ Initialize Services in main.dart
 ```bash
