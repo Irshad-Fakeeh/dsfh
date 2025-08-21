@@ -157,7 +157,8 @@ You are free to use and modify it for personal and commercial projects.
 
 ## 👨‍💻 Author
 
-[![GitHub Profile - Irshad Fakeeh](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Irshad-Fakeeh)
+[![GitHub - Irshad Fakeeh](https://img.shields.io/badge/GitHub-Irshad%20Fakeeh-blue?logo=github)](https://github.com/Irshad-Fakeeh)
+
 
 
 
