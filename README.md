@@ -44,6 +44,8 @@ void main() async {
   runApp(const MyApp());
 }
 
+---
+
 ### 2️⃣ Initialize Services in main.dart
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
